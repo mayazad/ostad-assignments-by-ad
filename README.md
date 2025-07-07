@@ -1,6 +1,25 @@
-Follow the folders accordingly
-Like for Assignment 1 given folder assignment-one and so on
-And for the problems they are named as problem_01 and so on
-The rest will be uploaded like this as well
+> ⚠️ More folders will be added as new assignments are submitted.
 
--------------------Thank You-------------------
+---
+
+## 📌 Naming Conventions
+
+- **Folders**: `assignment-one`, `assignment-two`, ...
+- **Files**: `problem_01.py`, `problem_02.py`, ...
+
+---
+
+## ✅ Status
+
+- [x] Assignment One Uploaded
+- [ ] Assignment Two Pending
+- [ ] Assignment Three Pending
+
+---
+
+## 📬 Contact
+
+**Md Adnan Hossain Mayaz**  
+📧 [mayazcodekage@gmail.com]
+🔗 [https://www.linkedin.com/in/md-mayaz-ad/]
+
