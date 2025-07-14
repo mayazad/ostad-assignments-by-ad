@@ -12,7 +12,7 @@
 ## ✅ Status
 
 - [x] Assignment One Uploaded
-- [x] Assignment Two Uploaded
+- [x] Assignment Two Pending
 - [ ] Assignment Three Pending
 
 ---
