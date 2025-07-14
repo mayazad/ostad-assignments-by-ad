@@ -13,7 +13,7 @@
 
 - [x] Assignment One Uploaded
 - [x] Assignment Two Uploaded
-- [x] Assignment Three Pending
+- [x] Assignment Three Uploaded
 - [ ] Assignment Four Pending
 - [ ] Assignment Five Pending
 
