@@ -14,9 +14,10 @@
 - [x] Assignment One Uploaded
 - [x] Assignment Two Uploaded
 - [x] Assignment Three Uploaded
-- [ ] Assignment Four Pending
-- [ ] Assignment Five Pending
-
+- [x] Assignment Four Uploaded
+- [x] Assignment Five Uploaded
+- [ ] Assignment Six Pending
+- [ ] Assignment Seven Pending
 ---
 
 ## 📬 Contact
