@@ -56,3 +56,5 @@ FROM google_salaries;
 SELECT education, SUM(salary) AS total_salary
 FROM google_salaries
 GROUP BY education;
+
+-- end --
