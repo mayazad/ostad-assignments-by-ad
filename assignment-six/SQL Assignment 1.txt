@@ -34,34 +34,30 @@ Table name:     google_salaries
 Select all the columns where employees are getting salary more than 50000
 
 Ans: 
-
-
+SELECT * 
+FROM google_salaries
+WHERE salary > 50000;
 
 
 Select first name, department and education where employees first name are started with 'Ma'
 
 Ans:
-
-
-
-
-
+SELECT first_name, department, education
+FROM google_salaries
+WHERE first_name LIKE 'Ma%';
 
 
 Select unique department.
 
 Ans:
-
-
+SELECT DISTINCT department
+FROM google_salaries;
 
 
 Make a group by education and present the total salary for every group 
 
 Ans:    
-
-
-
-
-
-
+SELECT education, SUM(salary) AS total_salary
+FROM google_salaries
+GROUP BY education;
 
