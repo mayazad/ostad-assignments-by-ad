@@ -17,7 +17,7 @@
 - [x] Assignment Four Uploaded
 - [x] Assignment Five Uploaded
 - [x] Assignment Six Uploaded
-- [ ] Assignment Seven Pending
+- [x] Assignment Seven Uploaded
 - [ ] Assignment Eight Pending
 ---
 
