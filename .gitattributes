@@ -1,1 +1,14 @@
 * text=auto
+
+# Ensure all text files use LF in the repo
+* text=auto eol=lf
+
+# Handle CSV files (force LF)
+*.csv text eol=lf
+
+# Handle source code files
+*.py text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.php text eol=lf
