@@ -20,7 +20,10 @@
 - [x] Assignment Seven Uploaded
 - [x] Assignment Eight Uploaded
 - [x] Assignment Nine Uploaded
-- [ ] Assignment Ten Pending
+- [x] Assignment Ten Uploaded
+- [ ] Assignment Eleven Pending
+- [ ] Assignment Twelve Pending
+- [ ] Assignment Thirteen Pending
 ---
 
 ## 📬 Contact
